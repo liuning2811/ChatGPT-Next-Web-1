@@ -17,6 +17,7 @@ export function AuthPage() {
   return (
     <div className={styles["auth-page"]}>
       <div className={`no-dark ${styles["auth-logo"]}`}>
+         <img src="111.png" alt="11.png">
         <BotIcon />
       </div>
 
