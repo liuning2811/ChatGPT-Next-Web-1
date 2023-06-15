@@ -7,7 +7,7 @@ const cn = {
       "前往公众号[【AiDe Next Web】](/#/settings)回复“密码”获取免费访问密码！您能看到此条信息是因为：访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码。",
   },
   Auth: {
-    Title: "微信关注[【AiDe Next Web】](/#/settings)获取",
+    Title: "微信关注【AiDe Next Web】获取",
     Tips: "管理员开启了密码验证，请在下方填入密码",
     Input: "在此处填写访问码",
     Confirm: "确认",
@@ -116,9 +116,9 @@ const cn = {
     },
 
     Update: {
-      Version: (x: string) => `公众号：【AiDe Next Web】`,
-      IsLatest: "已是最新版本",
-      CheckUpdate: "检查更新",
+      Version: (x: string) => `公众号:【AiDe Next Web】`,
+      IsLatest: "前往获取更多资讯",
+      CheckUpdate: "前往公众号",
       IsChecking: "正在检查更新...",
       FoundUpdate: (x: string) => `前往获取更多资讯`,
       GoToUpdate: "前往公众号",
