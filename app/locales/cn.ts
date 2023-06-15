@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "您能看到此条消息是因为：访问密码不正确或为空，请前往公众号[【AiDe Next Web】](/#/settings)回复“密码”获取免费访问密码！后点击[登录](/#/auth)页输入正确的访问密码。",
+      "您能看到此条消息是因为：访问密码不正确或为空，请前往公众号[【AiDe Next Web】](/#/settings)回复“密码”获取免费访问密码！后点击[登录](/#/auth)页输入正确的访问密码。![描述](https://p3.toutiaoimg.com/large/tos-cn-i-qvj2lq49k0/485eafd8ea7248df9a2162b2b90f1ca7)",
   },
   Auth: {
     Title: "微信关注【AiDe Next Web】获取",
