@@ -4,10 +4,10 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "前往公众号【AiDe Next Web】回复“密码”获取免费访问密码！您能看到此条信息是因为：访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      "前往公众号[【AiDe Next Web】](/#/settings)回复“密码”获取免费访问密码！您能看到此条信息是因为：访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码。",
   },
   Auth: {
-    Title: "微信关注【AiDe Next Web】获取",
+    Title: "微信关注[【AiDe Next Web】](/#/settings)获取",
     Tips: "管理员开启了密码验证，请在下方填入密码",
     Input: "在此处填写访问码",
     Confirm: "确认",
